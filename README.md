@@ -1,6 +1,7 @@
 # imgs2mp4
 
 [中文](readme-zh.md)
+
 Convert a series of images into an MP4 video based on ```ffmpeg``` with a simple drag-and-drop GUI. 
 
 ---
