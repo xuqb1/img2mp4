@@ -1,5 +1,6 @@
 # imgs2mp4
 
+[中文](readme-zh.md)
 Convert a series of images into an MP4 video based on ```ffmpeg``` with a simple drag-and-drop GUI. 
 
 ---
@@ -18,7 +19,8 @@ Convert a series of images into an MP4 video based on ```ffmpeg``` with a simple
 ### 1) Download ready-to-run executable
 Go to [Releases](https://github.com/xuqb1/img2mp4/releases) → unzip → run `img2mp4.exe`
 tips: Because ffmpeg.exe is bigger, upload the img2mp4.zip fail. So sorry.
-
+  You need download ffmpeg.exe from official site, put it to the same directory with img2mp4.exe,which compiled with command followed
+  
 ### 2) Run from source
 ```bash
 # Python ≥ 3.8 (3.12 recommended)
