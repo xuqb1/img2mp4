@@ -35,7 +35,7 @@ pyinstaller -F -w -i app.ico --hidden-import tkinterdnd2 img2mp4_gui.py
 ```
 
 ## Screenshot
-![Main Window](screenshots/work-window.png)
+![Main Window](screenshots/work_window.png)
 
 ## Requirements
 - pillow
