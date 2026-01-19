@@ -16,7 +16,8 @@ Convert a series of images into an MP4 video based on ```ffmpeg``` with a simple
 ## Quick Start
 
 ### 1) Download ready-to-run executable
-Go to [Releases](https://github.com/xuqb1/imgs2mp4/releases) → unzip → run `img2mp4.exe`
+Go to [Releases](https://github.com/xuqb1/img2mp4/releases) → unzip → run `img2mp4.exe`
+tips: Because ffmpeg.exe is bigger, upload the img2mp4.zip fail. So sorry.
 
 ### 2) Run from source
 ```bash
