@@ -17,7 +17,8 @@
 
 ### 1）下载即用可执行文件
 前往 [Releases](https://github.com/xuqb1/img2mp4/releases) → 解压 → 双击 `img2mp4.exe` 即可运行。
-提示：由于ffmpeg.exe文件太大了，img2mp4.zip文件上传失败。无法直接下载。可以自行下载ffmpeg.exe，放到img2mp4.exe相同文件夹里。
+提示：由于ffmpeg.exe文件太大了，img2mp4.zip文件上传失败，因此无法直接下载。
+可以自行下载ffmpeg.exe，放到img2mp4.exe相同文件夹里。
 
 ### 2）源码运行
 ```bash
