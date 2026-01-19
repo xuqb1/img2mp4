@@ -1,5 +1,7 @@
 # imgs2mp4
 
+[English](README.md)
+
 一款支持拖拽的图片串联合并 MP4 小工具，图形界面一键完成。
 
 ---
@@ -17,8 +19,10 @@
 
 ### 1）下载即用可执行文件
 前往 [Releases](https://github.com/xuqb1/img2mp4/releases) → 解压 → 双击 `img2mp4.exe` 即可运行。
+
 提示：由于ffmpeg.exe文件太大了，img2mp4.zip文件上传失败，因此无法直接下载。
-可以自行下载ffmpeg.exe，放到img2mp4.exe相同文件夹里。
+
+可以自行下载ffmpeg.exe，放到img2mp4.exe相同文件夹里。img2mp4.exe使用下面```3)```里的命令进行编译。
 
 ### 2）源码运行
 ```bash
