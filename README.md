@@ -1,6 +1,6 @@
 # imgs2mp4
 
-Convert a series of images into an MP4 video with a simple drag-and-drop GUI. 
+Convert a series of images into an MP4 video based on ffmpeg with a simple drag-and-drop GUI. 
 
 ---
 
